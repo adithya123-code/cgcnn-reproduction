@@ -267,14 +267,6 @@ the resulting test partition matches the paper's published benchmark.
 
 
 
-# Future Work
-
-- Investigate normalization differences between the released benchmark dataset and the original CGCNN implementation.
-- Compare CGCNN with ALIGNN and other graph neural network models.
-- Extend the benchmark to additional Materials Project properties.
-- Evaluate descriptor-hybridized graph neural networks.
-
-
 
 # References
 
