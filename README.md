@@ -233,7 +233,7 @@ For some properties Adam optimizer with a smaller learning rate was evaluated:
 | eij_max | 0.81 | 0.8881 | Reasonably close |
 | n_index | 0.24 | 0.4762 | Under investigation |
 | poly_electronic | 0.256 | 0.2932 | Improved after filtering |
-| poly_total |0.56  | 0.5239 |
+| poly_total |0.56  | 0.5239 | successfully reproduced
 
 ---
 
