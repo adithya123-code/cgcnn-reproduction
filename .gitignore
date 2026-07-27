@@ -1,0 +1,8 @@
+data/structures/
+data/raw/*.csv
+results/*/checkpoints/
+results/*/*.pt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/

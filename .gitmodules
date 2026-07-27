@@ -1,0 +1,3 @@
+[submodule "external/cgcnn"]
+	path = external/cgcnn
+	url = https://github.com/txie-93/cgcnn.git
