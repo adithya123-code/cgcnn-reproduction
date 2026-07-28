@@ -273,7 +273,7 @@ the resulting test partition matches the paper's published benchmark.
 
 1. Xie, T., & Grossman, J. C. Crystal Graph Convolutional Neural Networks for an Accurate and Interpretable Prediction of Material Properties.
 
-2. Improving Deep Representation Learning for Crystal Structures by Learning and Hybridizing Human-Designed Descriptors.
+2. Examining graph neural networks for crystal structures: Limitations and opportunities for capturing periodicity
 
 3. Materials Project
 
