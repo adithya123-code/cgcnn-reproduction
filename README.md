@@ -219,7 +219,7 @@ For some properties Adam optimizer with a smaller learning rate was evaluated:
 | Internal Energy (U) | Materials Project |
 | Heat Capacity (Cv) | Materials Project |
 | Piezoelectric modulus (eij_max) | Materials Project |
-
+| Poisson Ratio (v) | Materials Project
 ---
 
 # Current Results
@@ -228,6 +228,7 @@ For some properties Adam optimizer with a smaller learning rate was evaluated:
 |-----------|---------------|-------------------|--------|
 | K_VRH | 0.22 ± 0.02 | 0.2463 | Close reproduction |
 | G_VRH | 0.40 ± 0.02 | 0.66 | Under investigation |
+| v | 0.80 ± 0.03 | 0.98 | Under investigation |
 | U | 0.71 ± 0.03 | 0.6729 | Successfully reproduced |
 | Cv | 0.76 ± 0.04 | 0.7772 | Successfully reproduced |
 | eij_max | 0.81 | 0.8881 | Reasonably close |
